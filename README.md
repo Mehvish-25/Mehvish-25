@@ -1,7 +1,7 @@
 ## Hi there 👋
+I am a recent graduate with a BTech in Information Technology. I'm trying to push myself to make new project using different technologies to understand the world of technology better.
 
 <!--
-I am a recent graduate with a BTech in Information Technology. I'm trying to push myself to make new project using different technologies to understand the world of technology better.
 **Mehvish-25/Mehvish-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
