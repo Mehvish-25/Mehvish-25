@@ -1,17 +1,13 @@
-## Hi there 👋
-I am a recent graduate with a BTech in Information Technology, trying to push myself to make new project using different technologies to understand the world of technology a little better.
+## Hi there, I’m Mehvish! 👋
 
 <!--
 **Mehvish-25/Mehvish-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Code tinkerer | 📊 Data whisperer | 🤖 ML explorer
+🌱 Currently learning: smarter algorithms & cleaner UI/UX
+⚡ Fun fact: I debug with snacks (efficiency booster 🍕)
+📂 Projects: from face detection to trading bots
+🎯 Goal: Build things that are useful, fast & a little bit magical
 -->
